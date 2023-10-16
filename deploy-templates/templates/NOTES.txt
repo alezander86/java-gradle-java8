@@ -1,0 +1,1 @@
+1. Application java-gradle-java8 has been successfully deployed!!
